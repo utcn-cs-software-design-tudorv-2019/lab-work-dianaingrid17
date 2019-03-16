@@ -1,0 +1,5 @@
+Layer - logical representation of the code
+Tiens - physical deployment of layers
+
+Logging - Bussines Layer
+Security - all of them(presentation,bussines,data)
